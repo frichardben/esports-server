@@ -22,7 +22,7 @@ Platform that helps gamers find a partner to play their favorite game online.
 ### :anchor: Installing
 
 ```bash
-$ git clone https://github.com/frichardben/career-page.git
+$ git clone https://github.com/frichardben/esports-server.git
 # Go into the repository
 $ cd esports-server
 # Install dependencies
